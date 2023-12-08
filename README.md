@@ -1,44 +1,19 @@
 # Restaurant Food Order Theme
-This is a Restaurant Theme Website Template, designed using html and css. It was developed while teaching "Responsive Web Design Course".
 
-**Access the Course Here** - 
-[Responsive Web Design Course 2020](https://www.youtube.com/watch?v=VaV_Ro8jpPY)
+Nama  : Dimas Aditya Putranto
 
+Kelas : TI.22.A5
 
-## Support Developer
-1. Subscribe & Share my YouTube Channel - https://bit.ly/vijay-thapa-online-courses
-2. Add a Star 🌟  to this 👆 Repository
+NIM   : 312210489
 
-## Donate
+Dosen Pengampu : Wahyu Hadikristanto, S.Kom., M.Kom
 
-**[PayPal](https://bit.ly/support-vijay-thapa)**
-
-**[Buy me a Coffee  ☕️](https://www.buymeacoffee.com/vijaythapa)**
-
-**Donate by wire transfer:** ✉️ E-Mail at *donate@vijaythapa.com* for wire transfer details. 
+Membuat program  dari  rancangan sistem informasi yang sudah dibuat! Gunakan bahasa pemrograman bebas sesuai passion.
 
 
+# Hasil Project
 
-## Technologies Used
-1. HTML5
-2. CSS3
-
-
-## Pages on this Complete Free Template
-1. **index.html** - Home Page (Search Food, Some Categories, Featured Foods, Social Media link)
-2. **categories.html** - List all Categories on Single Page
-3. **foods.html** - List all foods on a single page
-4. **order.html** - Page to Order Selected Food
-5. **category_foods.html** - Page to list all the Foods based on Category Selected
-6. **food_search.html** - Page to list all the Foods based on Search keyword
-
-
-## For Sponsor or Project Enquiry
-1. Email - hi@vijaythapa.com
-
-
-## Follow Me on
-1. LinkedIn - [vijaythapa](https://www.linkedin.com/in/vijaythapa/ "Vijay Thapa on LinkedIn")
-2. Instagram - [@vijaythapa.code](https://www.instagram/vijaythapa.code/ "Vijay Thapa on Instagram")
-3. Facebook - [@thevijaythapa](https://www.facebook.com/thevijaythapa/ "Vijay Thapa on Facebook")
-5. Twitter - [@thevijaythapa](https://www.twitter.com/thevijaythapa "Vijay Thapa on Twitter")
+![Screenshot (154)](https://github.com/Doflamingo20/RPL_Beta/assets/130146099/1d811455-da4b-44c9-a41f-cf1cbdcdcb94)
+![Screenshot (155)](https://github.com/Doflamingo20/RPL_Beta/assets/130146099/70d6f9d8-55b0-4c6c-9786-c2ba37e7cbd5)
+![Screenshot (156)](https://github.com/Doflamingo20/RPL_Beta/assets/130146099/fc0e980b-ba20-4863-a250-ebf3bfeb4f07)
+![Screenshot (157)](https://github.com/Doflamingo20/RPL_Beta/assets/130146099/b0a6ac91-f821-4bb9-98e1-35866f711bbb)
